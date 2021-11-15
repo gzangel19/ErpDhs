@@ -89,6 +89,21 @@ Con esto ya tendría que correr sin problemas la aplicación de Laravel que hemo
 
 ____
 
+Imagenes 🚀
+
+<a href="https://ibb.co/qCR1Twv"><img src="https://i.ibb.co/hcK83vS/Sin-t-tulo.png" alt="Sin-t-tulo" border="0"></a>
+                                                                                                               
+<a href="https://ibb.co/j5wnmXL"><img src="https://i.ibb.co/59jbmH5/7.png" alt="7" border="0"></a>
+                                                                                                               
+<a href="https://ibb.co/dGX1c0d"><img src="https://i.ibb.co/6gGVZR3/2.png" alt="2" border="0"></a>
+
+<a href="https://ibb.co/HDJ9hHM"><img src="https://i.ibb.co/SXLZf31/3.png" alt="3" border="0"></a>
+                                                                                             
+<a href="https://ibb.co/jg70c3c"><img src="https://i.ibb.co/t8yj7Y7/5.png" alt="5" border="0"></a>
+                                                                                             
+<a href="https://ibb.co/dJ6kHyB"><img src="https://i.ibb.co/G3kCrj7/6.png" alt="6" border="0"></a>
+____
+
 # Autores ✒️
 
 Gauna, Angel Guillermo  - Trabajo Inicial
