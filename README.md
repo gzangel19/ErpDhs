@@ -76,3 +76,28 @@ Para crear la nueva clave e insertarla automáticamente en el .env, ejecutaremos
 $ php artisan key:generate
 
 ```
+
+## Ejecutar migraciones
+
+Por último, ejecutamos las migraciones para que se generen las tablas con:
+
+```
+$ php artisan migrate 
+
+```
+Con esto ya tendría que correr sin problemas la aplicación de Laravel que hemos clonado.
+
+____
+
+# Autores ✒️
+
+Gauna, Angel Guillermo  - Trabajo Inicial
+
+____
+
+Licencia 📄
+
+Este proyecto es propiedad de grupo DHS, cualquier uso debera ser autorizado por dicha compañia.
+____
+
+⌨️ con ❤️ por <a href="https://github.com/gzangel19"> GZANGEL19 </a> 😊
